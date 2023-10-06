@@ -1,4 +1,5 @@
 ![Caffery's GitHub stats](https://github-readme-stats.vercel.app/api?username=cafferychen777&show_icons=false&theme=light&hide_rank=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cafferychen777&layout=compact)](https://github.com/cafferychen777/github-readme-stats)
 
 # Hello! I'm Caffery Yang👋
 
