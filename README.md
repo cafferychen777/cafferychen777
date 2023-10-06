@@ -1,4 +1,4 @@
-![Caffery's GitHub stats](https://github-readme-stats.vercel.app/api?username=cafferychen777&show_icons=true&theme=radical)
+![Caffery's GitHub stats](https://github-readme-stats.vercel.app/api?username=cafferychen777&show_icons=true&theme=light)
 
 # Hello! I'm Caffery Yang👋
 
