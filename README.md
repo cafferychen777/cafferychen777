@@ -1,3 +1,5 @@
+![Caffery's GitHub stats](https://github-readme-stats.vercel.app/api?username=cafferychen777&show_icons=true&theme=radical)
+
 # Hello! I'm Caffery Yang👋
 
 I am a rising senior at **Southern Medical University**, majoring in Biostatistics. With an impressive **3.95/4.00 GPA**, I stand among the top 2% of my class.
