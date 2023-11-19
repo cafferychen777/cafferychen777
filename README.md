@@ -23,6 +23,7 @@ My future vision embraces a **multi-omics perspective**, synthesizing insights f
 
 ## 📚 Publications
 - Sole first author on a paper accepted by **Bioinformatics**.
+- Preparing to submit another paper as sole first author to **Bioinformatics** in November.
 
 ## 🤝 Collaboration
 I am **extremely open to collaborations**. If you have any projects related to microbiomics or multi-omics and think we could work together, please don't hesitate to reach out. Additionally, if any of my ongoing projects resonate with your interests, I warmly invite you to collaborate. Feel free to contact me!
