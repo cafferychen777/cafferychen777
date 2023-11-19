@@ -15,9 +15,9 @@ I am a rising senior at **Southern Medical University**, majoring in Biostatisti
 ## 🧪 Research Interests
 Under the guidance of [**Prof. Jun Chen**](https://scholar.google.com/citations?user=gonDvdwAAAAJ&hl=en) at Mayo Clinic and [**Prof. Liangliang Zhang**](https://sites.google.com/view/lyonszhang/home?authuser=0) at Case Western Reserve University, my research primarily revolves around microbiome data analysis.
 
-- Developed the [**MicrobiomeStat R package**](https://www.microbiomestat.wiki/), penning **over 15,000 lines of R code** and an extensive wiki documentation exceeding **20,000 words**.
+- Developed the [**MicrobiomeStat R package**](https://github.com/cafferychen777/MicrobiomeStat), writing **over 17,000 lines of R code**. Comprehensive documentation is available on the [**package wiki**](https://www.microbiomestat.wiki/), which contains in-depth guidance and tutorials exceeding **20,000 words**. Additionally, an interactive [**MicrobiomeStat Shiny application**](https://microbiomestat.shinyapps.io/MicrobiomeStat-Shiny/) has been created to provide a user-friendly platform for longitudinal statistical analysis and visualization of microbiome data.
 - Pioneered the [**MicrobiomeGallery**](https://a95dps-caffery-chen.shinyapps.io/MicrobiomeGallery/) collaborative platform.
-- Independently developed the [**ggpicrust2**](https://github.com/cafferychen777/ggpicrust2) R package, which amassed **48 stars** on GitHub and **over 5,000 downloads** on CRAN.
+- Independently developed the [**ggpicrust2**](https://github.com/cafferychen777/ggpicrust2) R package, which amassed **53 stars** on GitHub and **over 6,000 downloads** on CRAN.
 
 My future vision embraces a **multi-omics perspective**, synthesizing insights from **genomics, proteomics, transcriptomics**, and more.
 
