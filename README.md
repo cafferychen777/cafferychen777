@@ -26,7 +26,7 @@ My future vision embraces a **multi-omics perspective**, synthesizing insights f
 - Preparing to submit another paper as sole first author to **Bioinformatics** in November.
 
 ## 🤝 Collaboration
-I am **extremely open to collaborations**. If you have any projects related to microbiomics or multi-omics and think we could work together, please don't hesitate to reach out. Additionally, if any of my ongoing projects resonate with your interests, I warmly invite you to collaborate. Feel free to contact me!
+I am **extremely open to collaborations**. If you have any projects related to microbiomics or multi-omics and think we could work together, please don't hesitate to reach out. In addition to being open to new projects, I am particularly enthusiastic about assisting others with their microbiome/multi-omics data analysis. I'm also keen on collaborating with researchers and authors who have utilized my pipelines, such as **ggpicrust2** or **MicrobiomeStat**, in their work. If you are considering or have already used these tools in your paper, I would be thrilled to explore the possibility of co-authorship. Whether it's contributing to data analysis, interpretation, or manuscript preparation, I am ready to bring my expertise to your research. Let's connect and see how we can advance the field of microbiomics together!
 
 ## 🎯 Looking Forward
 As I transition into my final undergraduate year, I am fervently seeking **PhD programs** in Biostatistics, Computational Biology, or associated domains for Fall 2024. I invite potential collaborators or advisors to connect!
