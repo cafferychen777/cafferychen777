@@ -1,11 +1,15 @@
 ![Caffery's GitHub stats](https://github-readme-stats.vercel.app/api?username=cafferychen777&show_icons=false&theme=light&hide_rank=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cafferychen777&layout=compact)](https://github.com/cafferychen777/github-readme-stats)
 
+
 📊 Biostatistics enthusiast | 🧬 Microbiome Researcher | 🖥 Open for Collaboration
 
 # Hello! I'm Caffery Yang👋
 
-I am a rising senior at **Southern Medical University**, majoring in Biostatistics. With an impressive **3.95/4.00 GPA**, I stand among the top 2% of my class.
+I am a recent graduate from **Southern Medical University**, majoring in Biostatistics, with an impressive **3.95/4.00 GPA**, standing among the top 2% of my class.
+
+## 🎓 Next Step
+I have been accepted into the **PhD program in Statistics** at **Texas A&M University** for Fall 2024, and I'm excited to embark on this new journey!
 
 ## 🎖 Achievements
 - Received the [**National Scholarship**](https://docs.google.com/document/d/1Yry7uzQGdY1d56VRJJo3cqil1jeTWXL6BipN1oNld-Y/edit) from the Ministry of Education of China.
