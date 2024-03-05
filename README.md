@@ -6,7 +6,7 @@
 
 # Hello! I'm Caffery Yang👋
 
-I am a recent graduate from **Southern Medical University**, majoring in Biostatistics, with an impressive **3.95/4.00 GPA**, standing among the top 2% of my class.
+I am a recent graduate from **Southern Medical University**, majoring in Biostatistics, with an impressive **3.95/4.00 GPA**, standing among the top 2% of my class. Currently, I am visiting **Jian Yang's Lab** at **Westlake University** to further enrich my research experience before starting my PhD program.
 
 ## 🎓 Next Step
 I have been accepted into the **PhD program in Statistics** at **Texas A&M University** for Fall 2024, and I'm excited to embark on this new journey!
@@ -31,9 +31,6 @@ My future vision embraces a **multi-omics perspective**, synthesizing insights f
 
 ## 🤝 Collaboration
 I am **extremely open to collaborations**. If you have any projects related to microbiomics or multi-omics and think we could work together, please don't hesitate to reach out. In addition to being open to new projects, I am particularly enthusiastic about assisting others with their microbiome/multi-omics data analysis. I'm also keen on collaborating with researchers and authors who have utilized my pipelines, such as **ggpicrust2** or **MicrobiomeStat**, in their work. If you are considering or have already used these tools in your paper, I would be thrilled to explore the possibility of co-authorship. Whether it's contributing to data analysis, interpretation, or manuscript preparation, I am ready to bring my expertise to your research. Let's connect and see how we can advance the field of microbiomics together!
-
-## 🎯 Looking Forward
-As I transition into my final undergraduate year, I am fervently seeking **PhD programs** in Biostatistics, Computational Biology, or associated domains for Fall 2024. I invite potential collaborators or advisors to connect!
 
 ## 🛠 Projects
 
