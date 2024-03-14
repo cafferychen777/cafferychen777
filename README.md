@@ -21,7 +21,7 @@ Under the guidance of [**Prof. Jun Chen**](https://scholar.google.com/citations?
 
 - Developed the [**MicrobiomeStat R package**](https://github.com/cafferychen777/MicrobiomeStat), writing **over 17,000 lines of R code**. Comprehensive documentation is available on the [**package wiki**](https://www.microbiomestat.wiki/), which contains in-depth guidance and tutorials exceeding **20,000 words**. Additionally, an interactive [**MicrobiomeStat Shiny application**](https://microbiomestat.shinyapps.io/MicrobiomeStat-Shiny/) has been created to provide a user-friendly platform for longitudinal statistical analysis and visualization of microbiome data.
 - Pioneered the [**MicrobiomeGallery**](https://a95dps-caffery-chen.shinyapps.io/MicrobiomeGallery/) collaborative platform.
-- Independently developed the [**ggpicrust2**](https://github.com/cafferychen777/ggpicrust2) R package, which amassed **53 stars** on GitHub and **over 6,000 downloads** on CRAN.
+- Independently developed the [**ggpicrust2**](https://github.com/cafferychen777/ggpicrust2) R package, which amassed **73 stars** on GitHub and **over 9,000 downloads** on CRAN.
 
 My future vision embraces a **multi-omics perspective**, synthesizing insights from **genomics, proteomics, transcriptomics**, and more.
 
