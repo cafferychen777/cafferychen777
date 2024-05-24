@@ -18,13 +18,13 @@ Under the guidance of [**Prof. Jun Chen**](https://scholar.google.com/citations?
 
 - Developed the [**MicrobiomeStat R package**](https://github.com/cafferychen777/MicrobiomeStat), writing **over 17,000 lines of R code**. Comprehensive documentation is available on the [**package wiki**](https://www.microbiomestat.wiki/), which contains in-depth guidance and tutorials exceeding **20,000 words**. Additionally, an interactive [**MicrobiomeStat Shiny application**](https://microbiomestat.shinyapps.io/MicrobiomeStat-Shiny/) has been created to provide a user-friendly platform for longitudinal statistical analysis and visualization of microbiome data.
 - Pioneered the [**MicrobiomeGallery**](https://a95dps-caffery-chen.shinyapps.io/MicrobiomeGallery/) collaborative platform.
-- Independently developed the [**ggpicrust2**](https://github.com/cafferychen777/ggpicrust2) R package, which amassed **73 stars** on GitHub and **over 9,000 downloads** on CRAN.
+- Independently developed the [**ggpicrust2**](https://github.com/cafferychen777/ggpicrust2) R package, which amassed **85 stars** on GitHub and **over 11,000 downloads** on CRAN.
 
 My future vision embraces a **multi-omics perspective**, synthesizing insights from **genomics, proteomics, transcriptomics**, and more.
 
 ## 📚 Publications
 - Sole first author on a paper accepted by **Bioinformatics**.
-- Preparing to submit another paper as sole first author to **Bioinformatics** in November.
+- Preparing to submit another paper as sole first author to **Microbiome**.
 
 ## 🤝 Collaboration
 I am **extremely open to collaborations**. If you have any projects related to microbiomics or multi-omics and think we could work together, please don't hesitate to reach out. In addition to being open to new projects, I am particularly enthusiastic about assisting others with their microbiome/multi-omics data analysis. I'm also keen on collaborating with researchers and authors who have utilized my pipelines, such as **ggpicrust2** or **MicrobiomeStat**, in their work. If you are considering or have already used these tools in your paper, I would be thrilled to explore the possibility of co-authorship. Whether it's contributing to data analysis, interpretation, or manuscript preparation, I am ready to bring my expertise to your research. Let's connect and see how we can advance the field of microbiomics together!
