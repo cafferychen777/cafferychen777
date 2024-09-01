@@ -6,12 +6,12 @@
 
 ## Hello! I'm Caffery Yang👋
 
-I am thrilled to be joining the Statistics PhD program at Texas A&M University in Fall 2024. As a recent graduate from Southern Medical University, where I majored in Biostatistics and achieved a 3.95/4.00 GPA (top 2% of my class), I am currently visiting Jian Yang's Lab at Westlake University to further enrich my research experience before starting my doctoral studies.
+I am thrilled to be joining the Statistics PhD program at Texas A&M University in Fall 2024. 
 
 ## 🎖 Achievements
 - Awarded the **Inaugural Su Binghua Distinguished Biostatistics Scholarship** ($2,800) by Tigermed, 2024
   - Only undergraduate recipient among PhD candidates across mainland China
-- Received the [**National Scholarship**](https://docs.google.com/document/d/1Yry7uzQGdY1d56VRJJo3cqil1jeTWXL6BipN1oNld-Y/edit) from the Ministry of Education of China.
+- Received the **National Scholarship** from the Ministry of Education of China.
 - Secured **First Prize** in the National College Student Mathematics Competition.
 - Honored with **Meritorious Winner (M Award)** in the Mathematical Contest in Modeling (MCM) in the USA.
 
