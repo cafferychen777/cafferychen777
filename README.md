@@ -29,7 +29,9 @@ My future vision embraces a **multi-omics perspective**, synthesizing insights f
 - Preparing to submit another paper as sole first author to **Microbiome**.
 
 ## 🤝 Collaboration
-I am **very open to collaborations**, especially in the areas of microbiomics, multi-omics, single-cell, spatial transcriptomics, and microbiome data analysis. If you have any projects in these fields and believe we could collaborate, please don't hesitate to reach out. Along with being open to new opportunities, I am particularly eager to assist others with their data analysis needs in these areas. I am also keen to work with researchers who have utilized my pipelines, such as **ggpicrust2** or **MicrobiomeStat**, in their studies. If you're considering using or have already incorporated these tools into your research, I'd love to explore potential co-authorship opportunities. Whether it's contributing to data analysis, interpretation, or manuscript preparation, I am ready to lend my expertise to your research. Let’s connect and drive the field of microbiomics forward together!
+I am very **open to collaborations**, especially in the areas of multi-omics, single-cell, spatial transcriptomics, and microbiome data analysis. If you have any projects in these fields and think we could collaborate, please feel free to reach out! I am also eager to assist others with their data analysis needs in these areas.
+
+Additionally, I am particularly interested in collaborating with researchers who have used my tools, such as **ggpicrust2** or **MicrobiomeStat**. If you're considering using or have already incorporated these tools into your research, we can explore potential co-authorship opportunities. Whether it's data analysis, interpretation, or manuscript preparation, I'm happy to contribute my expertise. Let’s work together to advance these fields!
 
 ## 🛠 Projects
 
