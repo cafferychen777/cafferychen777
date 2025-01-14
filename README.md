@@ -35,19 +35,22 @@ Additionally, I am particularly interested in collaborating with researchers who
 
 ## 🛠 Projects
 
-#### 1. Application of LLM in Microbiome Taxonomy
+#### 1. LLMCal - AI-Powered Calendar Event Creator
+A PopClip extension that leverages Claude AI to intelligently convert selected text into calendar events, automatically extracting meeting details, times, and locations. The tool understands natural language and seamlessly integrates with macOS Calendar.
+
+#### 2. Application of LLM in Microbiome Taxonomy
 Claude's innovative approach using the entire NCBI database with the LLM offers direct taxonomic insights from FASTQ sequences. A potential game-changer when compared with traditional methods.
 
-#### 2. Performance of Microbiome DA Methods in Other Omics
+#### 3. Performance of Microbiome DA Methods in Other Omics
 Exploring how microbiome DA methods, known for processing the compositional nature of microbiome data, perform on other omics.
 
-#### 3. Generative AI in Microbiome Data Analysis and Accuracy Assessment
+#### 4. Generative AI in Microbiome Data Analysis and Accuracy Assessment
 Assessing the LLM model's capability as a microbiome data analysis expert against real-world experts.
 
-#### 4. PI_find
+#### 5. PI_find
 A tool designed to assist graduate school aspirants in discovering PI names from specific professional journals.
 
-#### 5. Fine-Tuning Platform for Bioinformatics Repositories
+#### 6. Fine-Tuning Platform for Bioinformatics Repositories
 Aiming to develop a platform to fine-tune ChatGPT with bioinformatics repositories, enhancing query results for newer tools.
 
 ## 📫 Connect with me
