@@ -432,20 +432,53 @@
             renderer.render(scene, camera);
         }
         
-        // 添加鼠标悬停信息显示
+        // 添加鼠标悬停信息显示 - 增强版
         const raycaster = new THREE.Raycaster();
         const mouse = new THREE.Vector2();
         const tooltip = document.createElement('div');
         tooltip.style.position = 'absolute';
-        tooltip.style.padding = '10px';
-        tooltip.style.backgroundColor = 'rgba(0,0,0,0.8)';
+        tooltip.style.padding = '12px';
+        tooltip.style.backgroundColor = 'rgba(0,0,0,0.9)';
         tooltip.style.color = 'white';
         tooltip.style.borderRadius = '5px';
         tooltip.style.pointerEvents = 'none';
         tooltip.style.display = 'none';
-        tooltip.style.zIndex = '100';
-        tooltip.style.fontSize = '12px';
+        tooltip.style.zIndex = '1000';
+        tooltip.style.fontSize = '14px';
+        tooltip.style.boxShadow = '0 0 10px rgba(0,0,0,0.5)';
+        tooltip.style.border = '1px solid rgba(255,255,255,0.2)';
+        tooltip.style.minWidth = '200px';
+        tooltip.style.textAlign = 'center';
         document.body.appendChild(tooltip);
+        
+        // 添加一个指引提示
+        const hoverGuide = document.createElement('div');
+        hoverGuide.style.position = 'absolute';
+        hoverGuide.style.top = '120px';
+        hoverGuide.style.width = '100%';
+        hoverGuide.style.textAlign = 'center';
+        hoverGuide.style.color = 'white';
+        hoverGuide.style.backgroundColor = 'rgba(0,0,0,0.7)';
+        hoverGuide.style.padding = '10px';
+        hoverGuide.style.zIndex = '99';
+        hoverGuide.style.fontSize = '14px';
+        hoverGuide.style.borderRadius = '5px';
+        hoverGuide.style.maxWidth = '400px';
+        hoverGuide.style.margin = '0 auto';
+        hoverGuide.style.left = '0';
+        hoverGuide.style.right = '0';
+        hoverGuide.innerHTML = '<strong>Hover Tip:</strong> Move your mouse over any cube to see the date and contribution details!';
+        document.body.appendChild(hoverGuide);
+        
+        // 3秒后自动隐藏指引
+        setTimeout(() => {
+            hoverGuide.style.opacity = '0';
+            hoverGuide.style.transition = 'opacity 1s';
+            setTimeout(() => hoverGuide.style.display = 'none', 1000);
+        }, 5000);
+        
+        // 当前选中的立方体
+        let selectedCube = null;
         
         function onMouseMove(event) {
             // 计算鼠标在画布上的位置
@@ -458,16 +491,27 @@
             // 获取与射线相交的对象
             const intersects = raycaster.intersectObjects(scene.children, true);
             
+            // 重置之前选中的立方体
+            if (selectedCube) {
+                selectedCube.material.emissiveIntensity = 0.2;
+                selectedCube = null;
+            }
+            
             if (intersects.length > 0) {
                 const object = intersects[0].object;
                 if (object.userData && object.userData.date) {
+                    // 高亮当前悬停的立方体
+                    selectedCube = object;
+                    object.material.emissiveIntensity = 0.8; // 增强发光效果
+                    
+                    // 更新工具提示内容
                     tooltip.innerHTML = `
-                        <strong>${object.userData.date}</strong><br>
-                        ${object.userData.description}
+                        <strong style="font-size: 16px; color: #58a6ff;">${object.userData.date}</strong><br>
+                        <span style="font-size: 15px;">${object.userData.description}</span>
                     `;
                     tooltip.style.display = 'block';
-                    tooltip.style.left = (event.clientX + 10) + 'px';
-                    tooltip.style.top = (event.clientY + 10) + 'px';
+                    tooltip.style.left = (event.clientX + 15) + 'px';
+                    tooltip.style.top = (event.clientY + 15) + 'px';
                 }
             } else {
                 tooltip.style.display = 'none';
