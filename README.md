@@ -25,7 +25,7 @@
   <h1>Welcome to Caffery's GitHub! 🧬</h1>
 
   <!-- Typing Animation -->
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Statistics+PhD+Student;Multi-Omics+Analyst;R+Package+Developer;Microbiome+Data+Specialist&center=true&width=500&height=50)
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Statistics+PhD+Student;LLM4omics+Researcher;R+Package+Developer;Microbiome+Data+Specialist&center=true&width=500&height=50)
 
   <!-- GitHub Stats Cards with Better Styling -->
   <img src="https://github-readme-stats.vercel.app/api?username=cafferychen777&show_icons=true&theme=radical" alt="Caffery's GitHub stats" />
@@ -46,74 +46,81 @@
     <img src="https://img.shields.io/badge/R-Expert-blue" alt="R Expert" />
     <img src="https://img.shields.io/badge/Bioinformatics-Specialist-green" alt="Bioinformatics" />
     <img src="https://img.shields.io/badge/Statistics-PhD-orange" alt="Statistics PhD" />
-    <img src="https://img.shields.io/badge/Microbiome-Analyst-purple" alt="Microbiome Analyst" />
+    <img src="https://img.shields.io/badge/LLM4omics-Researcher-purple" alt="LLM4omics Researcher" />
     <a href="https://twitter.com/CafferyYang">
       <img src="https://img.shields.io/twitter/follow/CafferyYang?style=social" alt="Twitter Follow" />
     </a>
   </div>
 
   <!-- Motivational Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Advancing+science+through+statistical+innovation+and+multi-omics+integration.&author=Caffery+Yang" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Advancing+science+through+LLMs+and+multi-omics+integration.&author=Caffery+Yang" />
 
 </div>
 
-## 👋 Hello! I'm Caffery Yang
+## 👋 Hello! I'm Chen Yang (Caffery)
 
-I am thrilled to be joining the Statistics PhD program at Texas A&M University in Fall 2024.
-
-## 🏆 Achievements
-
-- Awarded the **Inaugural Su Binghua Distinguished Biostatistics Scholarship** ($2,800) by Tigermed, 2024
-  - Only undergraduate recipient among PhD candidates across mainland China
-- Received the **National Scholarship** from the Ministry of Education of China
-- Secured **First Prize** in the National College Student Mathematics Competition
-- Honored with **Meritorious Winner (M Award)** in the Mathematical Contest in Modeling (MCM) in the USA
-
-![trophy](https://github-profile-trophy.vercel.app/?username=cafferychen777&row=1&column=4&theme=radical&no-frame=true)
+I'm a PhD Student in Statistics at Texas A&M University, co-advised by [Prof. Xianyang Zhang](https://zhangxiany-tamu.github.io/) and [Prof. Jun Chen](https://www.mayo.edu/research/faculty/chen-jun-ph-d/bio-20126134) at Mayo Clinic.
 
 ## 🔬 Research Interests
 
-Under the guidance of [**Prof. Jun Chen**](https://scholar.google.com/citations?user=gonDvdwAAAAJ&hl=en) at Mayo Clinic, my research primarily revolves around microbiome data analysis.
+My research interests span two main areas:
 
-- Developed the [**MicrobiomeStat R package**](https://github.com/cafferychen777/MicrobiomeStat), writing **over 17,000 lines of R code**. Comprehensive documentation is available on the [**package wiki**](https://www.microbiomestat.wiki/), which contains in-depth guidance and tutorials exceeding **20,000 words**. Additionally, an interactive [**MicrobiomeStat Shiny application**](https://microbiomestat.shinyapps.io/MicrobiomeStat-Shiny/) has been created to provide a user-friendly platform for longitudinal statistical analysis and visualization of microbiome data.
-- Pioneered the [**MicrobiomeGallery**](https://a95dps-caffery-chen.shinyapps.io/MicrobiomeGallery/) collaborative platform.
-- Independently developed the [**ggpicrust2**](https://github.com/cafferychen777/ggpicrust2) R package, which amassed **85 stars** on GitHub and **over 11,000 downloads** on CRAN.
+1. **LLM4omics**: Leveraging Large Language Models (LLMs) for omics data analysis, particularly in single-cell and microbiome data. I develop computational tools and statistical methods to enhance our understanding of biological systems and accelerate scientific discovery.
 
-My future vision embraces a **multi-omics perspective**, synthesizing insights from **genomics, proteomics, transcriptomics**, and more.
+2. **LLMs for Productivity**: Exploring how LLMs can enhance our daily productivity and work efficiency, developing innovative solutions to streamline workflows and augment human capabilities.
+
+## 🏆 Achievements & News
+
+- **2025**: Our Bioinformatics paper "[ggpicrust2](https://academic.oup.com/bioinformatics/article/39/8/btad470/7234609)" has reached **100 citations** on Google Scholar
+- **2024**: Awarded the **Inaugural Su Binghua Distinguished Biostatistics Scholarship** ($2,800) by Tigermed
+  - Only undergraduate recipient among PhD candidates across mainland China
+- Received the **National Scholarship** from the Ministry of Education of China
+- Secured **First Prize** in the National College Student Mathematics Competition
+- Honored with **Meritorious Winner (M Award)** in the Mathematical Contest in Modeling (MCM)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=cafferychen777&row=1&column=4&theme=radical&no-frame=true)
+
+## 🛠 Featured Tools
+
+### [MicrobiomeStat](https://github.com/cafferychen777/MicrobiomeStat)
+
+An R package for analyzing longitudinal microbiome, multi-omics and cross-sectional data. Create comprehensive analysis reports with one click.
+- **29K+ Downloads**
+- Latest version (1.2.0) adds multi-omics integration, enhanced visualization, and improved performance
+- [GitHub](https://github.com/cafferychen777/MicrobiomeStat) | [Wiki](https://www.microbiomestat.wiki/) | [CRAN](https://cran.r-project.org/web/packages/MicrobiomeStat/index.html)
+
+### [ggpicrust2](https://github.com/cafferychen777/ggpicrust2)
+
+An R package for PICRUSt2 output visualization and statistical analysis
+- **16K+ Downloads**
+- **100+ Citations**
+- Latest version (0.5.0) adds new visualization themes and improved statistical methods
+- [GitHub](https://github.com/cafferychen777/ggpicrust2)
+
+### [LLMCal](https://github.com/cafferychen777/LLMCal)
+
+LLM-powered PopClip extension that converts natural language text into calendar events
+- Latest version (0.2.0) adds support for multiple calendar services and improved NLP accuracy
+- [GitHub](https://github.com/cafferychen777/LLMCal) | [Demo](https://cafferyang.com/LLMCal/)
 
 <!-- Skills Display -->
 [![My Skills](https://skillicons.dev/icons?i=r,py,git,github,docker,bash,linux,vscode&theme=dark)](https://skillicons.dev)
 
 ## 📚 Publications
 
-- Sole first author on a paper accepted by **Bioinformatics**.
-- Preparing to submit another paper as sole first author to **Microbiome**.
+- **[ggpicrust2: an R package for PICRUSt2 predicted functional profile analysis and visualization](https://academic.oup.com/bioinformatics/article/39/8/btad470/7234609)** - Bioinformatics (2023)
+- Multiple papers in preparation on microbiome data analysis and LLM applications
 
 ## 🤝 Collaboration
 
-I am very **open to collaborations**, especially in the areas of multi-omics, single-cell, spatial transcriptomics, and microbiome data analysis. If you have any projects in these fields and think we could collaborate, please feel free to reach out! I am also eager to assist others with their data analysis needs in these areas.
+I am very **open to collaborations**, especially in the areas of:
+- Multi-omics integration
+- Single-cell analysis
+- Microbiome data analysis
+- LLM applications in bioinformatics
+- Productivity tools powered by LLMs
 
-Additionally, I am particularly interested in collaborating with researchers who have used my tools, such as **ggpicrust2** or **MicrobiomeStat**. If you're considering using or have already incorporated these tools into your research, we can explore potential co-authorship opportunities. Whether it's data analysis, interpretation, or manuscript preparation, I'm happy to contribute my expertise. Let's work together to advance these fields!
-
-## 🛠 Projects
-
-#### 1. LLMCal - AI-Powered Calendar Event Creator
-A PopClip extension that leverages Claude AI to intelligently convert selected text into calendar events, automatically extracting meeting details, times, and locations. The tool understands natural language and seamlessly integrates with macOS Calendar.
-
-#### 2. Application of LLM in Microbiome Taxonomy
-Claude's innovative approach using the entire NCBI database with the LLM offers direct taxonomic insights from FASTQ sequences. A potential game-changer when compared with traditional methods.
-
-#### 3. Performance of Microbiome DA Methods in Other Omics
-Exploring how microbiome DA methods, known for processing the compositional nature of microbiome data, perform on other omics.
-
-#### 4. Generative AI in Microbiome Data Analysis and Accuracy Assessment
-Assessing the LLM model's capability as a microbiome data analysis expert against real-world experts.
-
-#### 5. PI_find
-A tool designed to assist graduate school aspirants in discovering PI names from specific professional journals.
-
-#### 6. Fine-Tuning Platform for Bioinformatics Repositories
-Aiming to develop a platform to fine-tune ChatGPT with bioinformatics repositories, enhancing query results for newer tools.
+If you have projects in these fields and think we could collaborate, please feel free to reach out! I'm particularly interested in connecting with researchers who have used my tools such as **ggpicrust2** or **MicrobiomeStat**.
 
 <!-- GitHub Activity Graph -->
 <table>
@@ -137,7 +144,19 @@ Aiming to develop a platform to fine-tune ChatGPT with bioinformatics repositori
   <a href="https://github.com/cafferychen777">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/cafferyyang">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=I6BPn-IAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
+  </a>
   <a href="mailto:cafferychen777@tamu.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://cafferyang.com">
+    <img src="https://img.shields.io/badge/Website-cafferyang.com-blue?style=for-the-badge" alt="Personal Website" />
   </a>
 </div>
