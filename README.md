@@ -16,6 +16,13 @@
   <!-- GitHub Stats Cards with Better Styling -->
   <img src="https://github-readme-stats.vercel.app/api?username=cafferychen777&show_icons=true&theme=radical" alt="Caffery's GitHub stats" />
   
+  <!-- 3D Contribution Graph -->
+  <p>
+    <a href="https://cafferychen777.github.io/cafferychen777/assets/3d-contributions.html" target="_blank">
+      <img src="https://img.shields.io/badge/View%20My-3D%20Contribution%20Graph-blue?style=for-the-badge&logo=github" alt="3D Contribution Graph" />
+    </a>
+  </p>
+  
   <!-- Skills Icons -->
   <div style="display: flex; align-items: flex-start; justify-content: center; margin: 20px 0;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="65" height="65" />
