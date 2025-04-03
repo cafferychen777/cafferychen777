@@ -18,7 +18,7 @@
   
   <!-- 3D Contribution Graph -->
   <p>
-    <a href="https://cafferychen777.github.io/cafferychen777/assets/3d-contributions.html" target="_blank">
+    <a href="https://raw.githack.com/cafferychen777/cafferychen777/main/assets/3d-contributions.html" target="_blank">
       <img src="https://img.shields.io/badge/View%20My-3D%20Contribution%20Graph-blue?style=for-the-badge&logo=github" alt="3D Contribution Graph" />
     </a>
   </p>
