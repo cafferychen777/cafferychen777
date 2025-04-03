@@ -18,7 +18,7 @@
   
   <!-- Skills Icons -->
   <div style="display: flex; align-items: flex-start; justify-content: center; margin: 20px 0;">
-    <img src="https://techstack-generator.vercel.app/r-icon.svg" alt="R" width="65" height="65" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
   </div>
