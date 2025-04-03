@@ -57,6 +57,17 @@ LLM-powered tool that converts text into calendar events
 - **2024**: Awarded the **Su Binghua Distinguished Biostatistics Scholarship**
 - Published in **Bioinformatics** (2023)
 
+## Google Scholar Stats
+
+![Citations](https://img.shields.io/badge/Citations-133-blue?style=for-the-badge&logo=google-scholar&logoColor=white)
+![h-index](https://img.shields.io/badge/h--index-1-blue?style=for-the-badge&logo=google-scholar&logoColor=white)
+![i10-index](https://img.shields.io/badge/i10--index-1-blue?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Publications](https://img.shields.io/badge/Publications-2-blue?style=for-the-badge&logo=google-scholar&logoColor=white)
+
+### Top Cited Papers
+- **ggpicrust2: an R package for PICRUSt2 predicted functional profile analysis and visualization.** (2023, N/A) - 132 citations
+- **The microbiome at the interface between environmental stress and animal health: an example from the most threatened vertebrate group** (2024, N/A) - 1 citations
+
 ## Connect with me
 
 <div align="center">
