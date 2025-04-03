@@ -5,6 +5,10 @@ on:
     - cron: '0 0 * * 0'  # 每周日午夜运行
   workflow_dispatch:  # 允许手动触发
 
+# 明确设置权限
+permissions:
+  contents: write  # 需要写入权限来推送更改
+
 jobs:
   update-scholar:
     runs-on: ubuntu-latest
@@ -31,5 +35,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "GitHub Actions"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update Google Scholar stats"
-          git push
+          git diff --quiet && git diff --staged --quiet || (
+            git commit -m "Update Google Scholar stats"
+            git push "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:${{ github.ref }}
+          )
