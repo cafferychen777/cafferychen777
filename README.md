@@ -1,21 +1,78 @@
-![Caffery's GitHub stats](https://github-readme-stats.vercel.app/api?username=cafferychen777&show_icons=false&theme=light&hide_rank=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cafferychen777&layout=compact)](https://github.com/cafferychen777/github-readme-stats)
+<div align="center">
 
+  <!-- Coding Animation -->  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
 
-📊 Statistics PhD Student | 🧬 Multi-Omics Analyst | 🖥 R Package Developer
+  <!-- Spacing -->
+  <div>&nbsp;</div>
 
-## Hello! I'm Caffery Yang👋
+  <!-- Dynamic Emojis -->
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/DNA.png" alt="DNA" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="50" height="50" />
+  </div>
 
-I am thrilled to be joining the Statistics PhD program at Texas A&M University in Fall 2024. 
+  <!-- Welcome Title -->
+  <h1>Welcome to Caffery's GitHub! 🧬</h1>
 
-## 🎖 Achievements
+  <!-- Typing Animation -->
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Statistics+PhD+Student;Multi-Omics+Analyst;R+Package+Developer;Microbiome+Data+Specialist&center=true&width=500&height=50)
+
+  <!-- GitHub Stats Cards with Better Styling -->
+  <img src="https://github-readme-stats.vercel.app/api?username=cafferychen777&show_icons=true&theme=radical" alt="Caffery's GitHub stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafferychen777&layout=compact&theme=radical" alt="Top Languages" />
+
+  <!-- Skills Icons -->
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/r-icon.svg" alt="R" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  </div>
+
+  <!-- Badges -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/R-Expert-blue" alt="R Expert" />
+    <img src="https://img.shields.io/badge/Bioinformatics-Specialist-green" alt="Bioinformatics" />
+    <img src="https://img.shields.io/badge/Statistics-PhD-orange" alt="Statistics PhD" />
+    <img src="https://img.shields.io/badge/Microbiome-Analyst-purple" alt="Microbiome Analyst" />
+    <a href="https://twitter.com/CafferyYang">
+      <img src="https://img.shields.io/twitter/follow/CafferyYang?style=social" alt="Twitter Follow" />
+    </a>
+  </div>
+
+  <!-- Motivational Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Advancing+science+through+statistical+innovation+and+multi-omics+integration.&author=Caffery+Yang" />
+
+</div>
+
+## 👋 Hello! I'm Caffery Yang
+
+I am thrilled to be joining the Statistics PhD program at Texas A&M University in Fall 2024.
+
+## 🏆 Achievements
+
 - Awarded the **Inaugural Su Binghua Distinguished Biostatistics Scholarship** ($2,800) by Tigermed, 2024
   - Only undergraduate recipient among PhD candidates across mainland China
-- Received the **National Scholarship** from the Ministry of Education of China.
-- Secured **First Prize** in the National College Student Mathematics Competition.
-- Honored with **Meritorious Winner (M Award)** in the Mathematical Contest in Modeling (MCM) in the USA.
+- Received the **National Scholarship** from the Ministry of Education of China
+- Secured **First Prize** in the National College Student Mathematics Competition
+- Honored with **Meritorious Winner (M Award)** in the Mathematical Contest in Modeling (MCM) in the USA
 
-## 🧪 Research Interests
+![trophy](https://github-profile-trophy.vercel.app/?username=cafferychen777&row=1&column=4&theme=radical&no-frame=true)
+
+## 🔬 Research Interests
+
 Under the guidance of [**Prof. Jun Chen**](https://scholar.google.com/citations?user=gonDvdwAAAAJ&hl=en) at Mayo Clinic, my research primarily revolves around microbiome data analysis.
 
 - Developed the [**MicrobiomeStat R package**](https://github.com/cafferychen777/MicrobiomeStat), writing **over 17,000 lines of R code**. Comprehensive documentation is available on the [**package wiki**](https://www.microbiomestat.wiki/), which contains in-depth guidance and tutorials exceeding **20,000 words**. Additionally, an interactive [**MicrobiomeStat Shiny application**](https://microbiomestat.shinyapps.io/MicrobiomeStat-Shiny/) has been created to provide a user-friendly platform for longitudinal statistical analysis and visualization of microbiome data.
@@ -24,14 +81,19 @@ Under the guidance of [**Prof. Jun Chen**](https://scholar.google.com/citations?
 
 My future vision embraces a **multi-omics perspective**, synthesizing insights from **genomics, proteomics, transcriptomics**, and more.
 
+<!-- Skills Display -->
+[![My Skills](https://skillicons.dev/icons?i=r,py,git,github,docker,bash,linux,vscode&theme=dark)](https://skillicons.dev)
+
 ## 📚 Publications
+
 - Sole first author on a paper accepted by **Bioinformatics**.
 - Preparing to submit another paper as sole first author to **Microbiome**.
 
 ## 🤝 Collaboration
+
 I am very **open to collaborations**, especially in the areas of multi-omics, single-cell, spatial transcriptomics, and microbiome data analysis. If you have any projects in these fields and think we could collaborate, please feel free to reach out! I am also eager to assist others with their data analysis needs in these areas.
 
-Additionally, I am particularly interested in collaborating with researchers who have used my tools, such as **ggpicrust2** or **MicrobiomeStat**. If you're considering using or have already incorporated these tools into your research, we can explore potential co-authorship opportunities. Whether it's data analysis, interpretation, or manuscript preparation, I'm happy to contribute my expertise. Let’s work together to advance these fields!
+Additionally, I am particularly interested in collaborating with researchers who have used my tools, such as **ggpicrust2** or **MicrobiomeStat**. If you're considering using or have already incorporated these tools into your research, we can explore potential co-authorship opportunities. Whether it's data analysis, interpretation, or manuscript preparation, I'm happy to contribute my expertise. Let's work together to advance these fields!
 
 ## 🛠 Projects
 
@@ -53,7 +115,29 @@ A tool designed to assist graduate school aspirants in discovering PI names from
 #### 6. Fine-Tuning Platform for Bioinformatics Repositories
 Aiming to develop a platform to fine-tune ChatGPT with bioinformatics repositories, enhancing query results for newer tools.
 
+<!-- GitHub Activity Graph -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cafferychen777&theme=tokyo-night" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cafferychen777&theme=xcode" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=cafferychen777&theme=tokyo-night" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
 ## 📫 Connect with me
-[![Twitter: CafferyYang](https://img.shields.io/twitter/follow/CafferyYang?style=social)](https://twitter.com/CafferyYang)
 
-
+<div align="center">
+  <a href="https://twitter.com/CafferyYang">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/cafferychen777">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
