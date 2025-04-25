@@ -38,21 +38,38 @@ I'm a PhD Student in Statistics at Texas A&M University, co-advised by [Prof. Xi
 
 My research focuses on:
 - **LLM4omics**: Using Large Language Models for omics data analysis
+- **Single-cell RNA-seq Analysis**: Computational methods for scRNA-seq data
+- **Microbiome Analysis**: Statistical methods for microbiome data
 - **LLMs for Productivity**: Building tools to enhance daily workflows
 
-## Featured Tools
+## Featured Projects
+
+### [mLLMCelltype](https://github.com/cafferychen777/mLLMCelltype) · **New Release**
+[![GitHub stars](https://img.shields.io/github/stars/cafferychen777/mLLMCelltype?style=social)](https://github.com/cafferychen777/mLLMCelltype)
+
+An iterative multi-LLM consensus framework for cell type annotation in single-cell RNA sequencing data. By leveraging the complementary strengths of multiple large language models (including GPT-4o/4.1, Claude-3.7/3.5, Gemini-2.0, Grok-3, and others), this framework significantly improves annotation accuracy while providing transparent uncertainty quantification.
+
+- **Paper**: [Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data](https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1)
+- **Key Achievement**: Outperforms state-of-the-art methods by nearly 15% in mean accuracy (77.3% vs 61.3%) across 50 diverse datasets
 
 ### [MicrobiomeStat](https://github.com/cafferychen777/MicrobiomeStat) · **29K+ Downloads**
+[![GitHub stars](https://img.shields.io/github/stars/cafferychen777/MicrobiomeStat?style=social)](https://github.com/cafferychen777/MicrobiomeStat)
+
 Comprehensive R package for microbiome and multi-omics analysis
 
 ### [ggpicrust2](https://github.com/cafferychen777/ggpicrust2) · **100+ Citations**
+[![GitHub stars](https://img.shields.io/github/stars/cafferychen777/ggpicrust2?style=social)](https://github.com/cafferychen777/ggpicrust2)
+
 R package for PICRUSt2 visualization and analysis
 
 ### [LLMCal](https://github.com/cafferychen777/LLMCal)
+[![GitHub stars](https://img.shields.io/github/stars/cafferychen777/LLMCal?style=social)](https://github.com/cafferychen777/LLMCal)
+
 LLM-powered tool that converts text into calendar events
 
 ## Recent Highlights
 
+- **2025**: Published [mLLMCelltype](https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1) in bioRxiv, a novel multi-LLM consensus framework for scRNA-seq cell type annotation
 - **2025**: ggpicrust2 paper reached **100 citations** in Google Scholar
 - **2024**: Awarded the **Su Binghua Distinguished Biostatistics Scholarship**
 - Published in **Bioinformatics** (2023)
@@ -65,8 +82,9 @@ LLM-powered tool that converts text into calendar events
 ![Publications](https://img.shields.io/badge/Publications-2-blue?style=for-the-badge&logo=google-scholar&logoColor=white)
 
 ### Top Cited Papers
-- **ggpicrust2: an R package for PICRUSt2 predicted functional profile analysis and visualization.** (2023, N/A) - 132 citations
-- **The microbiome at the interface between environmental stress and animal health: an example from the most threatened vertebrate group** (2024, N/A) - 1 citations
+- **ggpicrust2: an R package for PICRUSt2 predicted functional profile analysis and visualization.** (2023, Bioinformatics) - 132 citations
+- **Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data** (2025, bioRxiv) - New publication
+- **The microbiome at the interface between environmental stress and animal health: an example from the most threatened vertebrate group** (2024, Proceedings of the Royal Society B) - 1 citations
 
 ## Connect with me
 
