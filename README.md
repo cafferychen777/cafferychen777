@@ -76,10 +76,15 @@ LLM-powered tool that converts text into calendar events
 
 ## Google Scholar Stats
 
-![Citations](https://img.shields.io/badge/Citations-133-blue?style=for-the-badge&logo=google-scholar&logoColor=white)
-![h-index](https://img.shields.io/badge/h--index-1-blue?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Citations](https://img.shields.io/badge/Citations-158-blue?style=for-the-badge&logo=google-scholar&logoColor=white)
+![h-index](https://img.shields.io/badge/h--index-2-blue?style=for-the-badge&logo=google-scholar&logoColor=white)
 ![i10-index](https://img.shields.io/badge/i10--index-1-blue?style=for-the-badge&logo=google-scholar&logoColor=white)
-![Publications](https://img.shields.io/badge/Publications-2-blue?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Publications](https://img.shields.io/badge/Publications-3-blue?style=for-the-badge&logo=google-scholar&logoColor=white)
+
+### Top Cited Papers
+- **ggpicrust2: an R package for PICRUSt2 predicted functional profile analysis and visualization.** (2023, N/A) - 156 citations
+- **The microbiome at the interface between environmental stress and animal health: an example from the most threatened vertebrate group** (2024, N/A) - 2 citations
+- **Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data** (2025, N/A) - 0 citations
 
 ### Top Cited Papers
 - **ggpicrust2: an R package for PICRUSt2 predicted functional profile analysis and visualization.** (2023, Bioinformatics) - 132 citations
