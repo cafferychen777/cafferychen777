@@ -44,7 +44,7 @@ Atlas-scale spatial deconvolution via structure-preserving sketching. Orders of 
 
 **[ChatSpatial](https://github.com/cafferychen777/ChatSpatial)** · New
 
-Natural language interface for spatial transcriptomics. 60+ methods, one conversation.
+MCP server for spatial transcriptomics. Chat with your data using 60+ methods.
 
 [![PyPI](https://img.shields.io/pypi/v/chatspatial)](https://pypi.org/project/chatspatial/)
 
