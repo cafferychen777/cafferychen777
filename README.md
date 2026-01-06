@@ -52,6 +52,21 @@ An iterative multi-LLM consensus framework for cell type annotation in single-ce
 - **Paper**: [Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data](https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1)
 - **Key Achievement**: Outperforms state-of-the-art methods by nearly 15% in mean accuracy (77.3% vs 61.3%) across 50 diverse datasets
 
+### [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) · **New Release**
+[![GitHub stars](https://img.shields.io/github/stars/cafferychen777/ChatSpatial?style=social)](https://github.com/cafferychen777/ChatSpatial)
+
+An MCP server for spatial transcriptomics analysis via natural language conversation, integrating 60+ state-of-the-art methods from Python and R ecosystems. Supports 10x Visium, Xenium, Slide-seq v2, MERFISH, and seqFISH formats.
+
+- **PyPI**: [chatspatial](https://pypi.org/project/chatspatial/)
+
+### [FlashDeconv](https://github.com/cafferychen777/flashdeconv) · **New Release**
+[![GitHub stars](https://img.shields.io/github/stars/cafferychen777/flashdeconv?style=social)](https://github.com/cafferychen777/flashdeconv)
+
+Atlas-scale, multi-resolution spatial deconvolution via structure-preserving sketching. Achieves accuracy comparable to top-tier Bayesian methods while accelerating inference by orders of magnitude.
+
+- **Paper**: [FlashDeconv enables atlas-scale, multi-resolution spatial deconvolution](https://doi.org/10.64898/2025.12.22.696108)
+- **PyPI**: [flashdeconv](https://pypi.org/project/flashdeconv/)
+
 ### [MicrobiomeStat](https://github.com/cafferychen777/MicrobiomeStat) · **29K+ Downloads**
 [![GitHub stars](https://img.shields.io/github/stars/cafferychen777/MicrobiomeStat?style=social)](https://github.com/cafferychen777/MicrobiomeStat)
 
