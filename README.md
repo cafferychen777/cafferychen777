@@ -19,11 +19,11 @@
 <tr>
 <td width="50%">
 
-**[mLLMCelltype](https://github.com/cafferychen777/mLLMCelltype)** · ⭐ 620+
+**[mLLMCelltype](https://github.com/cafferychen777/mLLMCelltype)** · ⭐ 640+
 
 Multi-LLM consensus for scRNA-seq cell type annotation. Outperforms SOTA by 15% accuracy.
 
-[![Paper](https://img.shields.io/badge/bioRxiv-Paper-b31b1b)](https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1)
+[![Paper](https://img.shields.io/badge/Commun.%20Biol.-Paper-b31b1b)](https://doi.org/10.1038/s42003-026-10420-8)
 [![PyPI](https://img.shields.io/pypi/v/mllmcelltype)](https://pypi.org/project/mllmcelltype/)
 [![Web](https://img.shields.io/badge/Web-App-blue)](https://www.mllmcelltype.com/)
 
@@ -51,7 +51,7 @@ MCP server for spatial transcriptomics. Chat with your data using 60+ methods.
 </td>
 <td width="50%">
 
-**[ggpicrust2](https://github.com/cafferychen777/ggpicrust2)** · 180+ Citations
+**[ggpicrust2](https://github.com/cafferychen777/ggpicrust2)** · 200+ Citations
 
 R package for PICRUSt2 functional profile analysis.
 
