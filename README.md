@@ -1,80 +1,39 @@
-<div align="center">
-
 # Chen Yang (Caffery)
 
-**Statistics PhD @ Texas A&M** · Building LLM-powered tools for computational biology
+I am a PhD student in Statistics at Texas A&M University developing reliable machine-learning and agentic systems for scientific discovery, with current applications in spatial genomics and single-cell analysis. I work with Prof. Xianyang Zhang at Texas A&M and Prof. Jun Chen at Mayo Clinic.
 
-[![Website](https://img.shields.io/badge/cafferyang.com-000?style=flat&logo=safari&logoColor=white)](https://cafferyang.com)
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=I6BPn-IAAAAJ)
-[![Twitter](https://img.shields.io/badge/@CafferyYang-000?style=flat&logo=x&logoColor=white)](https://twitter.com/CafferyYang)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cafferyyang)
+[Website](https://cafferyang.com) · [Google Scholar](https://scholar.google.com/citations?user=I6BPn-IAAAAJ) · [ORCID](https://orcid.org/0000-0002-2512-1816) · [LinkedIn](https://www.linkedin.com/in/cafferyyang)
 
-</div>
+## Research
 
----
+- Reliable machine learning and agentic systems for scientific discovery
+- Spatial genomics and single-cell analysis
+- Statistical methodology and reproducible research software
 
-### Featured
+## Selected research software
 
-<table>
-<tr>
-<td width="50%">
+| Project | Description |
+| --- | --- |
+| [mLLMCelltype](https://github.com/cafferychen777/mLLMCelltype) | Multi-LLM consensus framework for automated cell type annotation in scRNA-seq |
+| [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) | Schema-enforced, MCP-based agentic platform for spatial transcriptomics |
+| [FlashDeconv](https://github.com/cafferychen777/flashdeconv) | Atlas-scale spatial deconvolution via structure-preserving sketching |
+| [FlashS](https://github.com/cafferychen777/FlashS) | Frequency-domain detection of spatially variable genes at atlas scale |
+| [EdgeMap](https://github.com/cafferychen777/EdgeMap) | Edge-centric heritability mapping through spatial cell-cell communication |
+| [ggpicrust2](https://github.com/cafferychen777/ggpicrust2) | R package for PICRUSt2 functional-profile analysis and visualization |
+| [MicrobiomeStat](https://github.com/cafferychen777/MicrobiomeStat) | R package for longitudinal microbiome and multi-omics analysis |
+| [Overleaf CLI](https://github.com/cafferychen777/overleaf-cli) | Command-line workflows for managing Overleaf projects |
 
-**[mLLMCelltype](https://github.com/cafferychen777/mLLMCelltype)** · ⭐ 640+
+## Selected publications
 
-Multi-LLM consensus for scRNA-seq cell type annotation. Outperforms SOTA by 15% accuracy.
+- **Yang C**, Zhang X, Chen J. [Large Language Model consensus substantially improves the cell type annotation accuracy for scRNA-seq data](https://doi.org/10.1038/s42003-026-10420-8). *Communications Biology*, 2026.
+- Eterovick PC, Schmidt R, Sabino-Pinto J, **Yang C**, Künzel S, Ruthsatz K. [The microbiome at the interface between environmental stress and animal health](https://doi.org/10.1098/rspb.2024.0917). *Proceedings of the Royal Society B*, 2024.
+- **Yang C**, Mai J, Cao X, Burberry A, Cominelli F, Zhang L. [ggpicrust2: an R package for PICRUSt2 predicted functional profile analysis and visualization](https://doi.org/10.1093/bioinformatics/btad470). *Bioinformatics*, 2023.
 
-[![Paper](https://img.shields.io/badge/Commun.%20Biol.-Paper-b31b1b)](https://doi.org/10.1038/s42003-026-10420-8)
-[![PyPI](https://img.shields.io/pypi/v/mllmcelltype)](https://pypi.org/project/mllmcelltype/)
-[![Web](https://img.shields.io/badge/Web-App-blue)](https://www.mllmcelltype.com/)
+## Selected oral presentations
 
-</td>
-<td width="50%">
+- 33rd International Biometric Conference, Seoul, 2026
+- MLGenX Workshop at ICLR, Rio de Janeiro, 2026
+- ENAR Spring Meeting, Indianapolis, 2026
+- StatCafe, Department of Statistics, Texas A&M University, 2026
 
-**[FlashDeconv](https://github.com/cafferychen777/flashdeconv)** · New
-
-Atlas-scale spatial deconvolution via structure-preserving sketching. Orders of magnitude faster.
-
-[![Paper](https://img.shields.io/badge/bioRxiv-Paper-b31b1b)](https://doi.org/10.64898/2025.12.22.696108)
-[![PyPI](https://img.shields.io/pypi/v/flashdeconv)](https://pypi.org/project/flashdeconv/)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[ChatSpatial](https://github.com/cafferychen777/ChatSpatial)** · New
-
-MCP server for spatial transcriptomics. Chat with your data using 60+ methods.
-
-[![PyPI](https://img.shields.io/pypi/v/chatspatial)](https://pypi.org/project/chatspatial/)
-
-</td>
-<td width="50%">
-
-**[ggpicrust2](https://github.com/cafferychen777/ggpicrust2)** · 200+ Citations
-
-R package for PICRUSt2 functional profile analysis.
-
-[![CRAN](https://img.shields.io/cran/v/ggpicrust2)](https://cran.r-project.org/package=ggpicrust2)
-[![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/ggpicrust2)](https://cran.r-project.org/package=ggpicrust2)
-
-</td>
-</tr>
-</table>
-
-### More Tools
-
-| Project | Description | Links |
-|---------|-------------|-------|
-| [MicrobiomeStat](https://github.com/cafferychen777/MicrobiomeStat) | Longitudinal microbiome analysis | [![CRAN](https://img.shields.io/cran/v/MicrobiomeStat)](https://cran.r-project.org/package=MicrobiomeStat) [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/MicrobiomeStat)](https://cran.r-project.org/package=MicrobiomeStat) |
-| [LLMCal](https://github.com/cafferychen777/LLMCal) | Text-to-calendar via LLM | [![GitHub](https://img.shields.io/github/stars/cafferychen777/LLMCal?style=social)](https://github.com/cafferychen777/LLMCal) |
-| [Gmail MCP](https://github.com/cafferychen777/gmail-mcp) | Gmail integration for AI assistants | [![GitHub](https://img.shields.io/github/stars/cafferychen777/gmail-mcp?style=social)](https://github.com/cafferychen777/gmail-mcp) |
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cafferychen777&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafferychen777&layout=compact&hide_title=true&hide_border=true&theme=default" height="150" />
-
-</div>
+For a complete list of publications, software, and presentations, visit [cafferyang.com](https://cafferyang.com).
