@@ -4,6 +4,8 @@ I am a PhD student in Statistics at Texas A&M University developing reliable mac
 
 [Website](https://cafferyang.com) · [Google Scholar](https://scholar.google.com/citations?user=I6BPn-IAAAAJ) · [ORCID](https://orcid.org/0000-0002-2512-1816) · [LinkedIn](https://www.linkedin.com/in/cafferyyang)
 
+**Research impact:** [456 total citations on Google Scholar](https://scholar.google.com/citations?user=I6BPn-IAAAAJ&hl=en) (as of October 19, 2026).
+
 ## Research
 
 - Reliable machine learning and agentic systems for scientific discovery
